@@ -1,2 +1,2 @@
-# jarbis
+# jarvis
 futuristic AI
